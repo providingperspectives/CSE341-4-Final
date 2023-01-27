@@ -1,0 +1,23 @@
+{
+  "contact": {
+    "firstName": "Okome",
+    "lastName": "Ejiro",
+    "email": "okomeejiro@test.com",
+    "favoriteColor": "Blue",
+    "birthday": "12/12/90"
+  },
+  "contact2": {
+    "firstName": "Ikechukwu",
+    "lastName": "William",
+    "email": "ikechukwuwilliam.com",
+    "favoriteColor": "Purple",
+    "birthday": "07/12/90"
+  },
+  "contact3": {
+    "firstName": "Kingsley",
+    "lastName": "Ozum",
+    "email": "ozumkingsley@test.com",
+    "favoriteColor": "Green",
+    "birthday": "02/22/95"
+  }
+}
